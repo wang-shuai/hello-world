@@ -2,4 +2,7 @@
 我是主干master
 我是分支conf添加的内容
 dev分支修改内容
+修复issue-1的问题
+分支dev尝试stash功能
+再一次stash 只是为了测试命令
 另一个文件夹修改了master
