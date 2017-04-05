@@ -5,3 +5,4 @@ dev分支修改内容
 修复issue-1的问题
 分支dev尝试stash功能
 再一次stash 只是为了测试命令
+分支dev没有pull就修改了内容
